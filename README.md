@@ -5,7 +5,7 @@ Systemet hanterar enheter (lampor, termostater, dörrlås) och använder mönste
 
 ## 🚀 Hur man kör programmet
 
-1. Klona repot, exempelvis genom "git clone https://github.com/Jocke-1994/Smart-Home-Control.git" i git bash.
+1. Klona repot, exempelvis genom "git clone https://github.com/b1-loop/Smart-Home-.git" i git bash.
 2. Öppna en terminal i projektets rotmapp (där `.csproj`-filen ligger).
 3. Kör programmet med kommandot:
    `dotnet run`
